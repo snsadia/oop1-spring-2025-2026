@@ -1,0 +1,10 @@
+10000013,The Holy Quran,Allah,Religious,Available
+10000014,Sahih Al Bukhari,Imam Bukhari,Religious,Available
+10000022,Object Oriented Programming with Java,E Balagurusamy,Programming,Available
+10000020,C++ Programming,Bjarne Stroustrup,Programming,Available
+10000009,Fundamentals of Physics,David Halliday,Physics,Available
+10000012,Introduction to Psychology,James Kalat,Psychology,Available
+10000011,Organic Chemistry,Paula Bruice,Chemistry,Available
+10000015,Principles of Economics,N Gregory Mankiw,Economics,Available
+10000016,World History,William McNeill,History,Available
+10000018,English Grammar in Use,Raymond Murphy,Language,Available28468641,F88,SDL,IGWQFC,Available
